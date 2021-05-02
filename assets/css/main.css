@@ -4770,6 +4770,9 @@ template {
     color: #68b604
 }
 
+.devicon-matlab-plain.colored{
+    font-size: 4rem
+  }
 article,
 aside,
 figcaption,
