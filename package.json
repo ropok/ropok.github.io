@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.1",
   "type": "module",
-  "homepage": "https://yourusername.github.io/repository-name",
+  "homepage": "https://ropok.github.io/dev/revamp-1",
   "scripts": {
     "build": "vite build",
     "predeploy": "npm run build",
