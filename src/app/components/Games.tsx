@@ -49,6 +49,24 @@ export function Games() {
       image: "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxmb3Jlc3QlMjBnYW1lfGVufDF8fHx8MTczNzU5NTUxMnww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
       tags: ["Unity", "C#", "Adventure", "Indie"],
       year: "2022"
+    },
+    {
+      title: "Egrang Rebooted",
+      description: "Visualization of Traditional Game Egrang.",
+      role: "Game Programmer & Game Designer",
+      image: "https://img.itch.zone/aW1nLzU5ODIyNjYuanBn/original/6CM4YX.jpg",
+      tags: ["Unity", "UnityScript", "Education", "PC", "Windows"],
+      year: "2013",
+      url: "https://jalerse.itch.io/egrang-rebooted"
+    },
+    {
+      title: "Choosing Vacation",
+      description: "This game originates from the burn out situation of an employee. He thinks of going to a vacation, but he's not sure where to go until he sees an advertisement of a game to choose the best place for him. This game asks him to find lots of differences between two pictures. Each differences decides his next destination.\n Submitted on MGDP Game Jam 2022.\n Music by: Johnny Yang (SleepyUFO)",
+      role: "Game Programmer & Game Designer",
+      image: "https://img.itch.zone/aW1nLzk4MjcyMTEucG5n/315x250%23c/EiVl0B.png",
+      tags: ["Unity", "C#", "GameJam", "WebGL"],
+      year: "2022",
+      url: "https://jalerse.itch.io/choosing-vacation"
     }
   ];
 
