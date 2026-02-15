@@ -11,15 +11,15 @@ export function Hero() {
         <div className="max-w-4xl mx-auto text-center">
           <div className="inline-flex items-center gap-2 px-4 py-2 bg-purple-900/30 rounded-full border border-purple-500/30 mb-6">
             <Gamepad2 className="size-5 text-purple-400" />
-            <span className="text-purple-300">Game Developer</span>
+            <span className="text-purple-300">Game Developer | Software Engineer</span>
           </div>
           
           <h1 className="text-5xl md:text-7xl mb-6 bg-gradient-to-r from-white via-purple-200 to-blue-200 bg-clip-text text-transparent">
-            Hi, I'm Alex Jordan
+            Hi, I'm Jaler Sekar Maji
           </h1>
           
-          <p className="text-xl md:text-2xl text-gray-300 mb-8 max-w-2xl mx-auto">
-            Creating immersive gaming experiences through innovative design and cutting-edge technology
+          <p className="text-xl md:text-2xl text-gray-300 mb-8 max-w-3xl mx-auto">
+          Crafting impactful games that immerse, inspire & scale seamlessly.
           </p>
           
           <div className="flex gap-4 justify-center flex-wrap">
@@ -33,10 +33,10 @@ export function Hero() {
           </div>
           
           <div className="flex gap-6 justify-center mt-8">
-            <a href="#" className="text-gray-400 hover:text-purple-400 transition-colors">
+            <a href="https://github.com/ropok" className="text-gray-400 hover:text-purple-400 transition-colors">
               <Github className="size-6" />
             </a>
-            <a href="#" className="text-gray-400 hover:text-purple-400 transition-colors">
+            <a href="https://www.linkedin.com/in/jalerse/" className="text-gray-400 hover:text-purple-400 transition-colors">
               <Linkedin className="size-6" />
             </a>
             <a href="#" className="text-gray-400 hover:text-purple-400 transition-colors">
