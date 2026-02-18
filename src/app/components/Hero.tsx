@@ -15,7 +15,7 @@ export function Hero() {
           </div>
           
           <h1 className="text-5xl md:text-7xl mb-6 bg-gradient-to-r from-white via-purple-200 to-blue-200 bg-clip-text text-transparent">
-            Hi, I'm Jaler Sekar Maji
+            Hi, I'm Jaler
           </h1>
           
           <p className="text-xl md:text-2xl text-gray-300 mb-8 max-w-3xl mx-auto">

@@ -28,11 +28,11 @@ export function Bio() {
             </div>
             <div className="text-gray-300 space-y-5">
               <p className="text-lg leading-relaxed">
-                I'm a game developer passionate about crafting impactful experiences that immerse players, spark joy, and scale seamlessly. I’ve grown to care a lot about the “how” behind the scenes: smooth pipelines, stable builds, and workflows that make shipping games faster and less painful for everyone involved.
+                My name is Jaler Sekar Maji. I'm a game developer passionate about crafting impactful experiences that immerse players, spark joy, and scale seamlessly. I’ve grown to care a lot about the “how” behind the scenes: smooth pipelines, stable builds, and workflows that make shipping games faster and less painful for everyone involved.
               </p>
 
               <p className="text-lg leading-relaxed">
-                My journey began as a self-taught indie creator, experimenting with Scratch, Unity, and Roblox through passion projects. In 2021, I transitioned into full-time edtech software engineer focusing on Content Development, contributing to educational titles that combine engaging gameplay with meaningful learning using Unity and C#.
+                The journey began as a self-taught indie creator, experimenting with Scratch, Unity, and Roblox through passion projects. In 2021, I transitioned into full-time edtech software engineer focusing on Content Development, contributing to educational titles that combine engaging gameplay with meaningful learning using Unity and C#.
               </p>
 
               <p className="text-lg leading-relaxed">
