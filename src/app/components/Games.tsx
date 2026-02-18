@@ -21,24 +21,6 @@ export function Games() {
       url: "https://jalerse.itch.io/choosing-vacation"
     },
     {
-      title: "Pick a Justice Game",
-      description: "School-themed visual novel with top down adventure to fight down bully monster and bullying education.",
-      role: "Game Developer",
-      image: "https://img.itch.zone/aW1nLzIzMjIwNDUwLmpwZw==/315x250%23c/b5KhMq.jpg",
-      tags: ["Unity", "C#", "Education", "WebGL"],
-      year: "2025",
-      url: "https://jalerse.itch.io/pick-a-justice-game"
-    },
-    {
-      title: "Javanera",
-      description: "Interactive Digital Board Game of Snake and Ladder to introduce Javanese Language in fun and exciting way.",
-      role: "Game Developer",
-      image: "https://img.itch.zone/aW1nLzIyMDg1MzQ1LnBuZw==/315x250%23c/nv%2BYLa.png",
-      tags: ["Unity", "C#", "Education", "WebGL"],
-      year: "2025",
-      url: "https://jalerse.itch.io/javanera"
-    },
-    {
       title: "Power Plant Adventure",
       description: "Adventure of Elementary Student to save planet by saving energy and learn it.",
       role: "Game Developer",
@@ -57,6 +39,24 @@ export function Games() {
       url: "https://scratch.mit.edu/projects/1079909334/"
     },
     {
+      title: "Javanera",
+      description: "Interactive Digital Board Game of Snake and Ladder to introduce Javanese Language in fun and exciting way.",
+      role: "Game Developer",
+      image: "https://img.itch.zone/aW1nLzIyMDg1MzQ1LnBuZw==/315x250%23c/nv%2BYLa.png",
+      tags: ["Unity", "C#", "Education", "WebGL"],
+      year: "2025",
+      url: "https://jalerse.itch.io/javanera"
+    },
+    {
+      title: "Pick a Justice Game",
+      description: "School-themed visual novel with top down adventure to fight down bully monster and bullying education.",
+      role: "Game Developer",
+      image: "https://img.itch.zone/aW1nLzIzMjIwNDUwLmpwZw==/315x250%23c/b5KhMq.jpg",
+      tags: ["Unity", "C#", "Education", "WebGL"],
+      year: "2025",
+      url: "https://jalerse.itch.io/pick-a-justice-game"
+    },
+  {
       title: "LikuidCris",
       description: "An educational game for learning basic of cryptocurrency in an interactive way.",
       role: "Game Developer & Game Designer",
