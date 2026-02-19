@@ -27,7 +27,7 @@ export function Hero() {
               <Mail className="size-5 mr-2" />
               Get in Touch
             </Button>
-            <Button size="lg" variant="outline" className="border-purple-500/50 text-purple-300 hover:bg-purple-900/30">
+            <Button size="lg" variant="outline" className="border-purple-500/50 text-purple-300 hover:bg-purple-900/30" onClick={() => document.getElementById('featured-games')?.scrollIntoView({ behavior: 'smooth'})}>
               View My Work
             </Button>
           </div>

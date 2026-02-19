@@ -69,7 +69,7 @@ export function Games() {
   ];
 
   return (
-    <section className="py-20 bg-gradient-to-b from-slate-950 to-slate-900">
+    <section id="featured-games" className="py-20 bg-gradient-to-b from-slate-950 to-slate-900">
       <div className="container mx-auto px-4">
         <div className="max-w-6xl mx-auto">
           <div className="text-center mb-12">

@@ -13,8 +13,9 @@ export default function App() {
       <footer className="bg-slate-950 border-t border-slate-800 py-8">
         <div className="container mx-auto px-4">
           <div className="text-center text-gray-400">
-            <p>© 2025 Alex Jordan. All rights reserved.</p>
-            <p className="text-sm mt-2">Building immersive gaming experiences, one line of code at a time.</p>
+            <p>© 2026 Jaler Sekar Maji. All rights reserved.</p>
+            <p className="text-sm mt-2">Crafting impactful games that immerse, inspire & scale seamlessly.</p>
+
           </div>
         </div>
       </footer>
