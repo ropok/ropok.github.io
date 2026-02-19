@@ -22,46 +22,46 @@ export function Games() {
     },
     {
       title: "Power Plant Adventure",
-      description: "Adventure of Elementary Student to save planet by saving energy and learn it.",
+      description: "Adventure of Elementary Student to save planet by saving energy and learn it. Client: Risetnesia.",
       role: "Game Developer",
       image: "https://cdn2.scratch.mit.edu/get_image/project/1078370449_100x80.png",
-      tags: ["Scratch", "Elementary Student", "Education"],
+      tags: ["Scratch", "Elementary Student", "Education", "Risetnesia"],
       year: "2024",
       url: "https://scratch.mit.edu/projects/1078370449"
     },
     {
       title: "QuakeSafe Kids",
-      description: "An educational game for Megathrust Earthquake Preparedness in Elementary Student.",
+      description: "An educational game for Megathrust Earthquake Preparedness in Elementary Student. Client: Risetnesia",
       role: "Game Developer",
       image: "https://cdn2.scratch.mit.edu/get_image/project/1079909334_100x80.png",
-      tags: ["Scratch", "Elementary Student", "Education"],
+      tags: ["Scratch", "Elementary Student", "Education", "Risetnesia"],
       year: "2024",
       url: "https://scratch.mit.edu/projects/1079909334/"
     },
     {
       title: "Javanera",
-      description: "Interactive Digital Board Game of Snake and Ladder to introduce Javanese Language in fun and exciting way.",
+      description: "Interactive Digital Board Game of Snake and Ladder to introduce Javanese Language in fun and exciting way. Client: Risetnesia",
       role: "Game Developer",
       image: "https://img.itch.zone/aW1nLzIyMDg1MzQ1LnBuZw==/315x250%23c/nv%2BYLa.png",
-      tags: ["Unity", "C#", "Education", "WebGL"],
+      tags: ["Unity", "C#", "Education", "WebGL", "Risetnesia"],
       year: "2025",
       url: "https://jalerse.itch.io/javanera"
     },
     {
       title: "Pick a Justice Game",
-      description: "School-themed visual novel with top down adventure to fight down bully monster and bullying education.",
+      description: "School-themed visual novel with top down adventure to fight down bully monster and bullying education. Client: Risetnesia",
       role: "Game Developer",
       image: "https://img.itch.zone/aW1nLzIzMjIwNDUwLmpwZw==/315x250%23c/b5KhMq.jpg",
-      tags: ["Unity", "C#", "Education", "WebGL"],
+      tags: ["Unity", "C#", "Education", "WebGL", "Risetnesia"],
       year: "2025",
       url: "https://jalerse.itch.io/pick-a-justice-game"
     },
   {
       title: "LikuidCris",
-      description: "An educational game for learning basic of cryptocurrency in an interactive way.",
+      description: "An educational game for learning basic of cryptocurrency in an interactive way. Client: Risetnesia",
       role: "Game Developer & Game Designer",
       image: "https://tr.rbxcdn.com/180DAY-dda2ad7270e86473590113750e7fb291/150/150/Image/Webp/noFilter",
-      tags: ["Roblox", "Lua", "Education", "Cryptocurrency", "Puzzle"],
+      tags: ["Roblox", "Lua", "Education", "Cryptocurrency", "Puzzle", "Risetnesia"],
       year: "2025",
       url: "https://www.roblox.com/games/116935637740928/LikuidCris-Home"
     }
