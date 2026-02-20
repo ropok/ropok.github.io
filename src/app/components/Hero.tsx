@@ -1,4 +1,4 @@
-import { Gamepad2, Github, Linkedin, Mail } from "lucide-react";
+import { Gamepad2, Github, Linkedin, Mail, MessageCircle } from "lucide-react";
 import { Button } from "@/app/components/ui/button";
 
 export function Hero() {
@@ -23,7 +23,7 @@ export function Hero() {
           </p>
           
           <div className="flex gap-4 justify-center flex-wrap">
-            <Button size="lg" className="bg-purple-600 hover:bg-purple-700">
+            <Button size="lg" className="bg-purple-600 hover:bg-purple-700" onClick={() => window.location.href = 'mailto:jalerse@gmail.com?subject=Hi Jaler, let\'s get in touch!'}>
               <Mail className="size-5 mr-2" />
               Get in Touch
             </Button>
@@ -39,8 +39,8 @@ export function Hero() {
             <a href="https://www.linkedin.com/in/jalerse/" className="text-gray-400 hover:text-purple-400 transition-colors">
               <Linkedin className="size-6" />
             </a>
-            <a href="#" className="text-gray-400 hover:text-purple-400 transition-colors">
-              <Mail className="size-6" />
+            <a href="https://discord.com/users/jalerse" className="text-gray-400 hover:text-purple-400 transition-colors">
+              <MessageCircle className="size-6" />
             </a>
           </div>
         </div>
