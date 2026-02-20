@@ -73,7 +73,7 @@ export function Games() {
       <div className="container mx-auto px-4">
         <div className="max-w-6xl mx-auto">
           <div className="text-center mb-12">
-            <h2 className="text-4xl md:text-5xl mb-4 text-white">Featured Games</h2>
+            <h2 className="text-4xl md:text-5xl mb-4 text-white">Featured Projects</h2>
             <div className="w-20 h-1 bg-purple-500 mx-auto mb-6" />
             <p className="text-gray-400 text-lg max-w-2xl mx-auto">
               A selection of projects I've worked on throughout my career, showcasing various genres and technical challenges
