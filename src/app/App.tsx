@@ -14,7 +14,7 @@ export default function App() {
         <div className="container mx-auto px-4">
           <div className="text-center text-gray-400">
             <p>© 2026 Jaler Sekar Maji. All rights reserved.</p>
-            <p className="text-sm mt-2">Crafting impactful games that immerse, inspire & scale seamlessly.</p>
+            <p className="text-sm mt-2">Crafting impactful softwares that immerse, inspire & scale seamlessly.</p>
 
           </div>
         </div>

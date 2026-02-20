@@ -11,7 +11,7 @@ export function Hero() {
         <div className="max-w-4xl mx-auto text-center">
           <div className="inline-flex items-center gap-2 px-4 py-2 bg-purple-900/30 rounded-full border border-purple-500/30 mb-6">
             <Gamepad2 className="size-5 text-purple-400" />
-            <span className="text-purple-300">Game Developer | Software Engineer</span>
+            <span className="text-purple-300">Software Engineer | Game Developer </span>
           </div>
           
           <h1 className="text-5xl md:text-7xl mb-6 bg-gradient-to-r from-white via-purple-200 to-blue-200 bg-clip-text text-transparent">
@@ -19,7 +19,7 @@ export function Hero() {
           </h1>
           
           <p className="text-xl md:text-2xl text-gray-300 mb-8 max-w-3xl mx-auto">
-          Crafting impactful games that immerse, inspire & scale seamlessly.
+          Crafting impactful softwares that immerse, inspire & scale seamlessly.
           </p>
           
           <div className="flex gap-4 justify-center flex-wrap">

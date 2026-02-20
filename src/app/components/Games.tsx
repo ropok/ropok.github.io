@@ -4,7 +4,7 @@ export function Games() {
   const games = [
    {
       title: "Egrang Rebooted",
-      description: "Visualization of Traditional Game Egrang.",
+      description: "Visualization of Traditional Game Egrang. An award winning game on International Conference of Young Scientists 2013 for \"Reviving Traditional Values on Computer Science\" which re-introduce traditional game \"Egrang\" in a digital way.",
       role: "Game Developer & Game Designer",
       image: "https://img.itch.zone/aW1nLzU5ODIyNjYuanBn/original/6CM4YX.jpg",
       tags: ["Unity", "UnityScript", "Education", "PC", "Windows"],
@@ -24,7 +24,7 @@ export function Games() {
       title: "Power Plant Adventure",
       description: "Adventure of Elementary Student to save planet by saving energy and learn it. Client: Risetnesia.",
       role: "Game Developer",
-      image: "https://cdn2.scratch.mit.edu/get_image/project/1078370449_100x80.png",
+      image: "images/PowerPlantAdventure.png",
       tags: ["Scratch", "Elementary Student", "Education", "Risetnesia"],
       year: "2024",
       url: "https://scratch.mit.edu/projects/1078370449"
@@ -33,7 +33,7 @@ export function Games() {
       title: "QuakeSafe Kids",
       description: "An educational game for Megathrust Earthquake Preparedness in Elementary Student. Client: Risetnesia",
       role: "Game Developer",
-      image: "https://cdn2.scratch.mit.edu/get_image/project/1079909334_100x80.png",
+      image: "images/QuakeSafeKids.png",
       tags: ["Scratch", "Elementary Student", "Education", "Risetnesia"],
       year: "2024",
       url: "https://scratch.mit.edu/projects/1079909334/"
@@ -64,7 +64,26 @@ export function Games() {
       tags: ["Roblox", "Lua", "Education", "Cryptocurrency", "Puzzle", "Risetnesia"],
       year: "2025",
       url: "https://www.roblox.com/games/116935637740928/LikuidCris-Home"
-    }
+    },
+    {
+      title: "Brain Computer Interface - Digital Signal Processing",
+      description: "Classification system for game control with Steady State Evoked Potential on Brain Computer Interface, used Matlab on analyzing data with Digital Signal Processing method, data processing, training and evaluate model. Custom widget for Data Acquisition made with Processing Software.",
+      role: "Researcher & Programmer",
+      image: "images/SSVEP-BCI-DSP.jpg",
+      tags: ["BCI", "DSP", "Thesis", "Research", "Matlab"],
+      year: "2017",
+      url: "https://youtu.be/ushDJqLv_3o"
+    },
+     {
+      title: "Custom Recording Tools PyQt5",
+      description: "A custom desktop application for collecting sound data through an external device with PyQt5. As a process of data acquisition on a Speech-to-Text project, the dataset preparation system should have a custom filename and special function such as displaying text transcripts integrated with the record button.",
+      role: "Programmer",
+      image: "images/recording-tools-pyqt5.jpg",
+      tags: ["Python", "PyQt5", "Smart Speaker", "Desktop Application"],
+      year: "2019",
+      url: ""
+    },
+ 
 
   ];
 
